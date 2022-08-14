@@ -44,7 +44,7 @@ const PContainer = (props) => {
                                 name={"person"}
                                 onChange={(event) => {
                                     let value = event.target.value
-                                    let index = data.names[properties.gender].indexOf(value)
+                                    let index = data.names[properties.gender.toLowerCase()].indexOf(value)
 
                                     setProperties({ ...properties, person: { name: value, index: index } })
                                 }}
