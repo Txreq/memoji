@@ -11,7 +11,7 @@ Those are all the available at the moment endpoint to fetch data
 |`/api/random`|get a random memoji|
 |`/api/[Person][Skintone][Mood]`|get a specified memoji, e.g: `AlfredWhiteHappy`|
 
-I created a little demo where you can see all the properties in nice web view (src: `./web` folder), you can find it [here]([s](https://memoji.tareqdev.repl.co))
+I created a little demo where you can see all the properties in nice web view (src: `./web` folder), you can find it [here](https://memoji.tareqdev.repl.co)
 
 ### Installation
 I guess everyone knows how to clone a repo, we are just lazy to type commands
