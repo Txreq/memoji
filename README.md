@@ -5,6 +5,8 @@ an API provides more than 1500 emoji faces to use maybe as avatars in you next p
 
 ### Docs
 Those are all the available at the moment endpoint to fetch data
+`https://memoji.tareqdev.repl.co/api/...`
+
 | endpoint |description  |
 |--|--|
 |`/api/allProperties`|where you can find all the memojis' properties|
