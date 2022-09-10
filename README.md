@@ -20,7 +20,7 @@ I guess everyone knows how to clone a repo, we are just lazy to type commands
 ```
 git clone https://github.com/Txreq/memoji .
 ```
-configure server port by edition the `.env` file.
+configure server port by editing the `.env` file.
 before starting the application you have to install `concurrently` package to run the server and the web view at the same time, unless you like the classic method.
 ```
 npm i -g concurrently
